@@ -1,0 +1,16 @@
+class Employee:
+    salary = 234000
+
+    @property
+    def salaryAfterIncrement(self):
+        return self.salary + self.salary * 0.9 
+
+    @salaryAfterIncrement.setter 
+    def salaryAfterIncrement(self, salary):
+        self.increment =  ((salary/self.salary) -1)*100 
+
+e = Employee()
+# print(e.salaryAfterIncrement)
+e.salaryAfterIncrement = 444600
+print(e.increment)
+
