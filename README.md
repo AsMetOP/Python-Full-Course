@@ -26,17 +26,25 @@ The goal of this repository is to:
 
 ## 📂 Folder Structure
 Python/
-│
 ├── Chapter 1 & PS/
 ├── Chapter 2 & PS/
-├── ...
+├── Chapter 3 & PS/
+├── Chapter 4 & PS/
+├── Chapter 5 & PS/
+├── Chapter 6 & PS/
+├── Chapter 7 & PS/
+├── Chapter 8 & PS/
+├── Chapter 9 & PS/
+├── Chapter 10 & PS/
+├── Chapter 11 & PS/
+├── Chapter 12 & PS/
 ├── Numpy-YT/
 ├── Pandas-YT/
 ├── Matplotlib-YT/
 ├── OpenCV/
 ├── Project 1/
 ├── Project 2/
-└── Notebooks & Scripts
+└── Notebooks & Scripts/
 
 ## ⚙️ Requirements
 
